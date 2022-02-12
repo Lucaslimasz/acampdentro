@@ -6,6 +6,7 @@ import Button from "../components/Button";
 
 import VideoAcamp from "../assets/video-acamp.mp4";
 import Illustration from "../assets/illustration.png";
+import Footer from "../components/Footer";
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
           </div>
         </S.Wrapper>
       </S.Informations>
+      <Footer />
     </S.Container>
   );
 }

@@ -33,12 +33,7 @@ export default function Calendar() {
         <div>
           <img src={NumberOne} alt="" />
           <ul>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
+            <li>Horário: 19h30 - Pr. Raimundo Nonato</li>
           </ul>
         </div>
       )}
@@ -46,12 +41,8 @@ export default function Calendar() {
         <div>
           <img src={NumberTwo} alt="" />
           <ul>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
+            <li>Horário: 16h - Pra. Irany</li>
+            <li>Horário: 19h30 - Pr. Raimundo Nonato</li>
           </ul>
         </div>
       )}
@@ -59,12 +50,8 @@ export default function Calendar() {
         <div>
           <img src={NumberThree} alt="" />
           <ul>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
-            <li>Horário: 16h30 - Pr. Raimundo Nonato</li>
+            <li>Horário: 16h - Pra. Maria de Jesus</li>
+            <li>Horário: 19h30 - Pr. Raimundo Nonato</li>
           </ul>
         </div>
       )}

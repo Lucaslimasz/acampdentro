@@ -46,6 +46,7 @@ export const Container = styled.div`
     ul {
       li {
         padding: 15px 0;
+        text-align: left;
       }
     }
   }
